@@ -1,10 +1,10 @@
 Privacy Policy
 Last Updated: 12/7/2024
 
-OpenDevelopment.Util, developed by Open Development ("we," "our," or "us"), is committed to maintaining transparency about how we collect, use, and process data. By using OpenDevelopment.Util (the "Service"), you acknowledge and agree to this Privacy Policy. If you do not agree, you must discontinue using the Service immediately.
+OpenDevelopment.Utilities, developed by Open Development ("we," "our," or "us"), is committed to maintaining transparency about how we collect, use, and process data. By using OpenDevelopment.Utilities (the "Service"), you acknowledge and agree to this Privacy Policy. If you do not agree, you must discontinue using the Service immediately.
 
 1. Data Collection and Processing
-OpenDevelopment.Util may collect and process certain types of data for the purposes outlined below:
+OpenDevelopment.Utilities may collect and process certain types of data for the purposes outlined below:
 
 Message Content: The Service may temporarily intercept and review chats, messages, or other content submitted via the bot to ensure:
 
@@ -23,7 +23,7 @@ Improving and refining features to enhance the user experience.
 Access: Only authorized personnel within Open Development have access to the collected data. Access is limited strictly to the purposes outlined above.
 Retention: Data is stored only for as long as necessary to fulfill its intended purpose. Temporary data, such as message content intercepted for testing or debugging, is deleted after processing unless legally required to retain it.
 4. User Consent
-By using OpenDevelopment.Util, you consent to the temporary interception and review of chats or messages sent via the bot for the purposes described in this Privacy Policy.
+By using OpenDevelopment.Utilities, you consent to the temporary interception and review of chats or messages sent via the bot for the purposes described in this Privacy Policy.
 
 5. Data Sharing
 We do not sell, rent, or otherwise disclose data collected via the Service to third parties, except as necessary to comply with legal obligations or protect the rights and safety of Open Development and its users.
@@ -41,5 +41,5 @@ Contact Us
 For questions or concerns regarding this Privacy Policy, please contact us via our Discord server.
 
 Acknowledgment
-By using OpenDevelopment.Util, you acknowledge that you have read, understood, and agreed to this Privacy Policy.
+By using OpenDevelopment.Utilities, you acknowledge that you have read, understood, and agreed to this Privacy Policy.
 
