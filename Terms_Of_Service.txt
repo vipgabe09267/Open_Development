@@ -1,10 +1,10 @@
 Terms of Service
 Last Updated: 12/7/2024
 
-Welcome to OpenDevelopment.Util, a Discord bot developed by Open Development ("we," "our," or "us"). By using the OpenDevelopment.Util bot (the "Service"), you ("User") agree to these Terms of Service ("Terms"). If you do not agree to these Terms, you must cease using the Service immediately. Continued use of the Service constitutes your agreement to these Terms.
+Welcome to OpenDevelopment.Utilities, a Discord bot developed by Open Development ("we," "our," or "us"). By using the OpenDevelopment.Utilities bot (the "Service"), you ("User") agree to these Terms of Service ("Terms"). If you do not agree to these Terms, you must cease using the Service immediately. Continued use of the Service constitutes your agreement to these Terms.
 
 1. Acceptance of Terms
-By installing, accessing, or using OpenDevelopment.Util, you acknowledge that you have read, understood, and agree to be bound by these Terms. You represent that you are of legal age in your jurisdiction to form a binding contract and that you have the necessary authority to enter into these Terms.
+By installing, accessing, or using OpenDevelopment.Utilities, you acknowledge that you have read, understood, and agree to be bound by these Terms. You represent that you are of legal age in your jurisdiction to form a binding contract and that you have the necessary authority to enter into these Terms.
 
 2. No Warranties or Guarantees
 THE SERVICE IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. OPEN DEVELOPMENT MAKES NO WARRANTIES, EXPRESS OR IMPLIED, AND DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
@@ -48,4 +48,4 @@ Contact Us
 For questions or concerns regarding these Terms, please contact us via our Discord server.
 
 Acknowledgment
-By using OpenDevelopment.Util, you acknowledge that you have read, understood, and agree to these Terms of Service.
+By using OpenDevelopment.Utilities, you acknowledge that you have read, understood, and agree to these Terms of Service.
