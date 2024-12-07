@@ -39,7 +39,7 @@ The Service may interact with or facilitate integrations involving third-party p
 Open Development reserves the right to modify, suspend, or terminate the Service, or your access to it, at any time without notice or liability. We may also update these Terms at our discretion, with continued use of the Service signifying your acceptance of any changes.
 
 8. Governing Law
-These Terms are governed by and construed in accordance with the laws of [Insert Your Jurisdiction]. You agree to submit to the exclusive jurisdiction of the courts located in [Insert Location] for the resolution of any disputes arising out of or related to these Terms or the Service.
+These Terms are governed by and construed in accordance with the laws of Texas, USA. You agree to submit to the exclusive jurisdiction of the courts located in Texas, USA for the resolution of any disputes arising out of or related to these Terms or the Service.
 
 9. Entire Agreement
 These Terms constitute the entire agreement between you and Open Development regarding your use of the Service, superseding any prior agreements. If any provision of these Terms is deemed invalid or unenforceable, the remaining provisions will remain in full force and effect.
